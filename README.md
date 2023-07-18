@@ -4,7 +4,7 @@
 - 👨‍🎓 Formações nas áreas de Negócio e Tecnologia
 - 🤖 Especialista em sistemas de integração, principalmente MFT (Managed File Transfer) e EDI (Eletronic Data Interchange)
 - ☺️ Estudo programação como hobby
-- 📈 Estudo Ciência de Dados para tomar melhores decisões como PO
+- 📈 Estudo ciência de dados para tomar melhores decisões como PO
 - 👨‍🍳 Gosto de cozinhar, por isso penso em fazer um repositório só com receitas
 
 
